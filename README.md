@@ -109,7 +109,7 @@ Evidence-guided AFO stiffness adjustment algorithm. Frontiers Rehabilitation Sci
 
 ## Academic citation
 
-Samuel Oluwakoya (2026). AFO Clinical Management Platform: A Dual-Dashboard Machine Learning System for Physiotherapist-Led Ankle-Foot Orthosis Prescription and Patient Compliance Monitoring. GitHub. https://github.com/samueloluwakoya/afo-platform
+Samuel Oluwakoya (2026). AFO Clinical Management Platform: A Dual-Dashboard Machine Learning System for Physiotherapist-Led Ankle-Foot Orthosis Prescription and Patient Compliance Monitoring. GitHub. (https://github.com/samexdgs/AFO)
 
 
 ## Disclaimer
