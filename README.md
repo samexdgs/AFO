@@ -1,3 +1,4 @@
+https://afoplat.streamlit.app/
 # AFO Clinical Management Platform
 
 A dual-dashboard clinical tool for physiotherapists and patients built around machine learning-based ankle-foot orthosis prescription. One login for the clinician, a separate login for the patient. What happens on one side is visible on the other.
