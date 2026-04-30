@@ -1,5 +1,12 @@
 https://afoplat.streamlit.app/
+
 # AFO Clinical Management Platform
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--2126--0254-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-2126-0254)
+
 
 A dual-dashboard clinical tool for physiotherapists and patients built around machine learning-based ankle-foot orthosis prescription. One login for the clinician, a separate login for the patient. What happens on one side is visible on the other.
 
